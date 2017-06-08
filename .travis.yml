@@ -1,4 +1,0 @@
-language: bash
-script:
-  - echo "test1 start"
-  -./test.sh
